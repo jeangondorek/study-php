@@ -1,4 +1,4 @@
 # study-php
 
 to launch lampp ```sudo /opt/lampp/lampp start```
-directories ´´´http://localhost/phpmyadmin´´´ and ´´´http://localhost´´´
+directories [phpadmin][http://localhost/phpmyadmin] and [localhost][http://localhost]
