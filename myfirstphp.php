@@ -6,6 +6,8 @@
     <title>Study PHP</title>
 </head>
 <body>
-    
+    <?php
+        echo "<p>ALÔ GOIANA</p>"
+    ?>
 </body>
 </html>
